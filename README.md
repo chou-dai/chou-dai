@@ -12,5 +12,5 @@
 <br>
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=chou-dai&theme=darkhub&column=7&count_private=true" />
+  <img src="https://github-profile-trophy-o1p7.vercel.app/?username=chou-dai&theme=darkhub&column=7&count_private=true" />
 </div>
